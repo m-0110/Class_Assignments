@@ -1,11 +1,11 @@
 '''
 PROGRAM DESCRIPTION:
 
-Create three endpoints
+Create three endpoints using flask
 '''
 
-
 #PROGRAMMED BY: Modika Ishwarya
+#email-id:b18cs002@kitsw.ac.in
 #DATE:21-09-2021
 #PYTHON VERSION:3.8
 #CAVEATS:None
@@ -15,6 +15,8 @@ Create three endpoints
 
 from flask import Flask
 from flask import render_template
+from flask import redirect
+from flask import url_for
 
 #create object
 app = Flask(__name__)
