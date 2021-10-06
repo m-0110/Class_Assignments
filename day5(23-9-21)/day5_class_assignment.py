@@ -6,7 +6,7 @@ using flask_sqlalchemy create tables and columns
 
 #PROGRAMMED BY: Modika Ishwarya
 #email-id:b18cs002@kitsw.ac.in
-#DATE:21-09-2021
+#DATE:23-09-2021
 #PYTHON VERSION:3.8
 #CAVEATS:None
 #LICENSE:None
