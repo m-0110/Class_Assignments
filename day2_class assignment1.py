@@ -5,7 +5,7 @@ Send request to api  using requests module and get response search for name- Afg
 
 
 #PROGRAMMED BY: Modika Ishwarya
-#DATE:21-09-2021
+#DATE:20-09-2021
 #PYTHON VERSION:3.8
 #CAVEATS:None
 #LICENSE:None
