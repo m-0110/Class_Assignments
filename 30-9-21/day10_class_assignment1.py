@@ -7,6 +7,14 @@ HARMONIC MEAN
 '''
 
 
+#PROGRAMMED BY: Modika Ishwarya
+#email-id:b18cs002@kitsw.ac.in
+#DATE:30-09-2021
+#PYTHON VERSION:3.8
+#CAVEATS:None
+#LICENSE:None
+
+
 
 class Progression:
     #finding geometric mean
